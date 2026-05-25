@@ -9,7 +9,7 @@ st.title("🚀 Siêu Trợ Lý Đa Năng & Hệ Thống Thiết Bị")
 st.write("Phiên bản Bất Tử - Đã tối ưu băng thông chống nghẽn mã lỗi 429.")
 
 # 2. Cấu hình khóa bảo mật API Key mới của bạn
-API_KEY = "AIzaSyDMtxpAtB3sDdLxJY9SJ4UQl-xlu0kFGQ8"
+API_KEY = "AIzaSyC8BBcnsdZ7tBiAdyEQGnshbZ6l8nvEZEM"
 
 # =========================================================================
 # LỆNH HUẤN LUYỆN HỆ THỐNG: Khởi tạo tính cách ngắn gọn để tiết kiệm dung lượng
