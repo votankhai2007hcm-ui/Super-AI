@@ -9,7 +9,7 @@ st.title("🚀 Siêu Trợ Lý Đa Năng & Hệ Thống Thiết Bị")
 st.write("Phiên bản AI thông minh tích hợp trí tuệ cảm xúc, tiện ích giải trí và trung tâm phần cứng.")
 
 # 2. Cấu hình khóa bảo mật API Key của bạn
-API_KEY = "AIzaSyDMtxpAtB3sDdLxJY9SJ4UQl-xlu0kFGQ8"
+API_KEY = "AIzaSyD6DmiLfA6tDfZdidk95IsCv0Op5UQWcks"
 
 # =========================================================================
 # LỆNH HUẤN LUYỆN HỆ THỐNG: Khởi tạo tính cách, cảm xúc và trí thông minh cho AI
